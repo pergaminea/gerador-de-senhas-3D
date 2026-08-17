@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root{
-    --branco: rgb(3, 0, 0);
-    --cor-de-fundo: #ffffffe1;
+    --branco: rgba(255, 254, 254, 0.103);
+    --cor-de-fundo: #64ffff;
     --fundo-de-senha: #b0d5f8fa;
-    --fundo-texto: #a9a8ff;
-    --borda: #003b7e;
+    --fundo-texto: #89d6f5;
+    --borda: #6f00ff9d;
     --fonte:"Roboto", sans-serif;
 }
 
